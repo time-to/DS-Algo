@@ -1,2 +1,1 @@
-
-#https://github.com/time-to/DS-Algo/wiki
+[Wiki](https://github.com/time-to/DS-Algo/wiki)
